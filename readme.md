@@ -1,23 +1,13 @@
-# Hand On Lab (HOL) - IOT Main Hub #
+#HOL @Mainhub#
 
-## IoT Camp do DX está disponivel publicamente: ##
+##Arduino e se o MacGyver tivesse um?##
 
+Começamos por enquadrar o desenvolvimento IOT com arduino , falando sobre o que é afinal, como pode ser utilizado, conceitos de prototipagem rápida. 
 
-o   Connet the Dots (github a ser trabalhado diariamente e um pouco instável)
+FAQ: Arduino vs Chinauino vs Myuino . Vamos desmistificar isto dos microprocessadores e descomplicar o tema em modo light. 
 
-§  http://blogs.msdn.com/b/devschool/archive/2014/12/30/iot-connect-the-dots-by-ms-open-tech-gets-your-uno-connected-to-the-cloud.aspx
+Fast and furious: Plataformas e IDEs que tornam o desenvolvimento tão facil como utilizar uma Bimby. 
 
-§  https://msopentech.com/blog/2014/12/10/connecthedots-io/
+Hello world Arduino : logo nos primeiro minutos fazer o nosso primeiro projecto de uma forma espantosamente fácil. 
 
-§  https://github.com/msopentech/connectthedots
-
-
-## Como requisitos temos ##
-
-§  Starter : Arduino UNO R3 and weather shield, Raspberry Pi OK
-
-§  Directly connected devices (ver Hardware prerequisites)
-
-§  Gateways (ver Hardware prerequisites)
-
-§  Gateway connected devices (ver Hardware prerequisites)
+Vai ser o inicio de um Grande Dia em que vamos construir a nossa "Thing" com arduinos e sensores para falar com outras "Things" na Internet.
